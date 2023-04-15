@@ -36,7 +36,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>QR Code Generator</h1>
+      <h1>QR Code Generat</h1>
 
       <textarea
         value={value}
