@@ -1,5 +1,3 @@
-
-
 import './App.css';
 import QRCode from 'react-qr-code';
 import { useState, useEffect, useRef } from 'react';
